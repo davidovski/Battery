@@ -3,9 +3,9 @@ pygame.init()
 
 import sys
 
-from Cuboid import Cuboid
-from Cylinder import Cylinder
-from renderer import *
+from engine.Cuboid import Cuboid
+from engine.Cylinder import Cylinder
+from engine.renderer import *
 map = [
     "                         ",
     "                         ",

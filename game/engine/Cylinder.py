@@ -1,8 +1,8 @@
-from Object import Object3D
+from engine.Object import Object3D
 import pygame
 import random
 
-from util import glitch_color
+from engine.util import glitch_color
 
 
 class Cylinder(Object3D):

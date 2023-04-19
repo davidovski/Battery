@@ -1,9 +1,9 @@
 import random
 
-from Object import Object3D
+from engine.Object import Object3D
 import pygame
 
-from util import glitch_color, glitch
+from engine.util import glitch_color, glitch
 
 
 class Cuboid(Object3D):

@@ -1,5 +1,5 @@
 import pygame
-import Object
+import engine.Object
 
 MAX_DEPTH = 64
 
